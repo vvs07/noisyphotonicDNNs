@@ -1,2 +1,2 @@
 # noisyphotonicDNNs
-Training techniques for improving robustness of photonic deep neural networks
+Training techniques for improving the robustness of photonic analog deep neural networks
